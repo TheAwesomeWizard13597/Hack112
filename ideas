@@ -1,0 +1,32 @@
+put your ideas here:
+
+intend to turn this into a README
+
+
+Functionality
+- character that moves around a 2d space
+- interact with things in the 2d space
+- Store stats of each student
+- Measure difficulty of each quiz and find a formula to interact with stats
+- UI STUFF:
+    - text thing on bottom of screen
+    - buttons and shit
+    - 
+
+
+
+
+
+Story?
+- map could potentially be rooms, or just a lecture hall
+- rooms
+    - Lecture hall - ('battles')
+        - final exam = final battle
+        - quizzes 
+        - homeworks = training
+    - Dorm rooms - discord, piazza, access inventory
+    - Recitation room
+
+- play as a TA 
+- TA captures students and trains them to fight the professors.
+- separate scene for 'combat' ('Sean used Midterm 2!')
